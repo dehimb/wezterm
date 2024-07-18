@@ -41,4 +41,7 @@ config.window_background_image_hsb = {
   brightness = 0.07,
 }
 config.tab_bar_at_bottom = true
+
+config.scrollback_lines = 10000
+
 return config
